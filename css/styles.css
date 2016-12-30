@@ -1,0 +1,19 @@
+
+.page1 {
+	position: relative;
+	width: 30%;
+	height: 50%;
+	background-size: cover;
+	background-position: center center;
+	z-index: 1;
+	background-image: url('../img/backg1.png');
+	background-repeat: repeat-x;
+
+}
+
+.canvas {
+	width: 30%;
+	height: 50%;
+}
+
+
